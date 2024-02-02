@@ -1,8 +1,6 @@
 # 3DViewer
  The program is developed in the C programming language, adhering to the C11 standard, using the GCC compiler with additional QT modules.
 
-The program's code is located in the "src" folder.
-
 Program compilation is configured using a Makefile with a standard set of GNU program targets: all, install, uninstall, clean, dvi, dist, tests, gcov_report.
 
 Installation is performed on the desktop.
